@@ -13,3 +13,8 @@ ORANGE BOOK（＆＃x1F4D9;）：📙
 UP-POINTING RED TRIANGLE（＆＃x1F53A;）：🔺  
 DOWN-POINTING RED TRIANGLE（＆＃x1F53B;）：🔻  
 UP-POINTING小红三角（＆＃x1F53C;）：🔼  
+
+
+
+![equation1](http://latex.codecogs.com/gif.latex?\theta)
+
