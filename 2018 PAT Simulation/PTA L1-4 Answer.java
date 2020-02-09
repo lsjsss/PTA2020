@@ -6,7 +6,6 @@ public class Main {
 		ArrayList<String> s = new ArrayList<String>();
 
 		int count = 0;
-		
 		while(true) {
 			String sc = input.nextLine();
 			
